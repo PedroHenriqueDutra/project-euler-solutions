@@ -1,6 +1,6 @@
 #include <stdio.h>
 //var
-int a=600851475143,b=0,c=0,d=0,e[12];
+int b=0,c=0,d=0,e[12];
 
 int main()
 {
