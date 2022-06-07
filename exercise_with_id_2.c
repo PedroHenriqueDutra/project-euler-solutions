@@ -15,7 +15,7 @@ int main()
         c=d;
         
         if(d%2==0){
-            e=e+d;*/
+            e=e+d;
         }
         else{
             continue;
