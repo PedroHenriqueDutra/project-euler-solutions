@@ -17,7 +17,9 @@ int main()
     e[11]=4;
     e[12]=3;
     for(int i=1;i<14;i++){
-        
+        c=i+1;
+        d=e[i]+e[c];
+        printf("%d",d);
     }
     return 0;
 }
